@@ -1,6 +1,6 @@
 # site-dc-ufscar
 
-Atividade de front-end da UFSCAR - Explorando o poderoso HTML5
+Atividade de front-end da UFSCAR 2023 - Explorando o poderoso HTML5
 
 # Objetivo
 
